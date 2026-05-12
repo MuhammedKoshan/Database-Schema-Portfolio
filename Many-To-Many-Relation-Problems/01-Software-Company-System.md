@@ -17,4 +17,4 @@ Solution:
 
 
 
-<img width="1548" height="475" alt="image" src="https://github.com/user-attachments/assets/7e9ddd57-4ee5-4321-bbb9-b9bdc5e56e3c" />
+<img width="1513" height="466" alt="image" src="https://github.com/user-attachments/assets/34ed33b8-8c75-4c30-a7fb-4c82231ceacc" />
